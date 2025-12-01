@@ -1,0 +1,18 @@
+# ejemplos
+#Analogy.py
+Sirve para leer el valor del sensor de luz y el valor del potenciómertro 
+
+#Leds.py
+Enciende, espera y apaga la luz del led 
+
+#libmotor.py
+Enciende y apaga el motor 
+
+#motor.py
+Hce que el carro se mueva adelante, atrás, izquierda, derecha y parar 
+
+#oled.py
+Prende y apaga la pantalla 
+
+#rgbneopixel.py
+Prende las luces rgb
